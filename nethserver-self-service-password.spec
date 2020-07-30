@@ -12,9 +12,9 @@ BuildArch: noarch
 BuildRequires: nethserver-devtools
 Requires: self-service-password
 Requires: nethserver-httpd-virtualhosts
-Requires: nethserver-rh-php71-php-fpm
-Requires: rh-php71-php-ldap
-Requires: rh-php71-php-mbstring
+Requires: nethserver-rh-php73-php-fpm
+Requires: rh-php73-php-ldap
+Requires: rh-php73-php-mbstring
 #AutoReq: no
 
 %description
